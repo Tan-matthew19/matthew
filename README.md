@@ -1,20 +1,26 @@
-# Air Quality Analysis Dashboard
-## Overview
-This project presents an interactive air quality dashboard using Streamlit. It compares PM2.5 and PM10 pollution levels between Wanliu and Wanshouxigong, based on historical data. The dashboard includes time-series visualizations, correlation heatmaps, and scatter plots to analyze how environmental factors (e.g., temperature) impact pollution levels.
+# E-Commerce Customer Satisfaction Dashboard
 
-## Features
-PM2.5 & PM10 Levels Comparison: Time-series plots for both locations over a chosen date range.
-Correlation Heatmaps: Visualize relationships between pollutants and weather.
-Scatter Plots: Analyze the impact of temperature on NO2 levels.
-Interactive Date Filters: Customize analysis by date range.
+This project is an **E-Commerce Customer Satisfaction Dashboard** built using Streamlit to analyze customer satisfaction and shipping time impacts.
 
-## Getting Started
-### 1. Clone the Repository
+---
+
+## Run the Dashboard
+
+Follow the steps below to run the Streamlit dashboard locally:
+
+### 1. Clone the repository:
+
 ```bash
-git clone https://github.com/your-username/air-quality-dashboard.git
+git clone https://github.com/kalloong/Proyek-Belajar-Analis-Data-Dicoding.git
+cd dashboard
 ```
-### 2. Install Dependencies
-Install the required Python packages:
+### 2. Install dependencies:
+Make sure you have Python 3.6+ installed. Then, install the required libraries by running:
 ```bash
 pip install -r requirements.txt
+```
+### 3. Run the Dashboard:
+Start the Streamlit app by running:
+```bash
+streamlit run Dashboard.py
 ```
