@@ -1,9 +1,9 @@
 # Air Quality Analysis Dashboard
-Overview :
-This project provides an interactive air quality dashboard built with Streamlit. It compares air pollution levels (PM2.5 and PM10) in two locations: Wanliu and Wanshouxigong, based on historical data. The dashboard also visualizes correlations between pollutants and environmental factors (e.g., temperature, pressure, humidity) and explores how temperature affects nitrogen dioxide (NO2) concentrations.
+## Overview
+This project presents an interactive air quality dashboard using Streamlit. It compares PM2.5 and PM10 pollution levels between Wanliu and Wanshouxigong, based on historical data. The dashboard includes time-series visualizations, correlation heatmaps, and scatter plots to analyze how environmental factors (e.g., temperature) impact pollution levels.
 
 Features
-PM2.5 & PM10 Levels Comparison: Explore time-series plots of particulate matter levels over a user-selected date range.
-Correlation Heatmaps: Analyze relationships between air quality parameters, such as pollutants and weather conditions.
-Scatter Plots: Visualize how temperature impacts NO2 levels.
-Date Filters: Customize the analysis by selecting specific date ranges using an interactive sidebar.
+PM2.5 & PM10 Levels Comparison: Time-series plots for both locations over a chosen date range.
+Correlation Heatmaps: Visualize relationships between pollutants and weather.
+Scatter Plots: Analyze the impact of temperature on NO2 levels.
+Interactive Date Filters: Customize analysis by date range.
