@@ -8,12 +8,5 @@ Correlation Heatmaps: Visualize relationships between pollutants and weather.
 Scatter Plots: Analyze the impact of temperature on NO2 levels.
 Interactive Date Filters: Customize analysis by date range.
 
-.
-├── DATA/
-│   ├── PRSA_Data_Wanliu_20130301-20170228.csv
-│   ├── PRSA_Data_Wanshouxigong_20130301-20170228.csv
-├── app.py                   # Streamlit dashboard script
-├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
-└── dashboard.md              # Dashboard description
-
+## Getting Started
+### 1. Clone the Repository
